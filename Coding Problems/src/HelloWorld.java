@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		System.out.println("Succesfully committed in GITHUB");
+		System.out.println("Succesfully committed in GITHUB");
 
 	}
 
