@@ -7,6 +7,9 @@ public class TwoSum {
 		/*The solution is created by using brute force of 
 		 *using two for loops and one if condition
 		 * Assumming exactly one or no solution is avaiable
+		 * 
+		 * time complexity is O(n^2)
+		 * Space Complxity is O(n)
 		 */
 		
 		int[] nums = {2,9,11,15};
