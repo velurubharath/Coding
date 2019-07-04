@@ -9,6 +9,7 @@ public class TwoSumUsingHashMap {
 		/*
 		 * Two numbers sum using Hashmap instead of for loops
 		 * By using Hashmap we can lookup Hashmap at time complexity of O(1)
+		 * But as we are tansversing once for compliemmnt time complexity is O(n)
 		 * But as we are creating Hashmap we are trading the space complexity to increase the speed
 		 */
 
