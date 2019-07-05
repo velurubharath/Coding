@@ -4,7 +4,13 @@ public class JewelsAndStones {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+		/*
+		 * Checking the number of jewel types given in a string to 
+		 * jewels and stones given in other string
+		 * 
+		 * time complexity is O(n^2)
+		 * Space Complexity is O(n)
+		 */
 		
 		String J= "aA";
 		String S = "aAAbbbb";
