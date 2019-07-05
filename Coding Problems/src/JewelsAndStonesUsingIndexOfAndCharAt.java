@@ -4,6 +4,11 @@ public class JewelsAndStonesUsingIndexOfAndCharAt {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		/*
+		 * Jewels and Stones with TimeComplexoty of O(m+n)
+		 * m is length of S and n i length of J
+		 */
+		
 		String S = "aAAAbbbb";
 		String J = "aA";
 		
