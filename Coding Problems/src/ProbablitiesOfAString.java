@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class AddTwoStringsOfBinaryNumbers {
+public class ProbablitiesOfAString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
