@@ -11,12 +11,12 @@ public class ArrangingCoinsAsSteps {
 	  public static int arrangeCoins(int n) {
 		  
 		  int rows = 0;
-	        for(int i =0;n-i>=0;i++){
+	        for(int i =1;n-i>=0;i++){
 	            if(n-i>=0){
 	                rows++;
 	                n=n-i;
 	            }else
-	            	break;
+	            	rows--;
 	                 
 	        }
 	        System.out.println(rows);
